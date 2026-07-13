@@ -1,0 +1,13 @@
+marks={
+    "Ram":40,
+    "Shannu":100,
+    "mani":90,
+    "kumar":50,
+    "ishu":60
+}
+#marks.update({"bhavani":80})
+#marks.pop("Ram")
+#print(marks)
+print(marks.keys())
+print(marks.items())
+print(marks.values())
